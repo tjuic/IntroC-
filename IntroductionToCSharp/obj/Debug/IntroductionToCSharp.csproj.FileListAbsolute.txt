@@ -1,0 +1,7 @@
+C:\Users\atip\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojAssemblyReference.cache
+C:\Users\atip\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\atip\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+C:\Users\atip\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+C:\Users\atip\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+C:\Users\atip\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+C:\Users\atip\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
